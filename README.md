@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔥 I’m looking to collaborate on open source projects<br>🌱 I’m currently working in software engineer<br>💬 Ask me about frontend/backend/databases<br/>🤓 I’m very interested to get involved in a ML project and it's infrastructure
+🔥 I’m looking to collaborate on open source projects<br>🌱 I’m currently working as a software engineer<br>💬 Ask me about frontend/backend/databases<br/>🤓 I’m very interested to get involved in a ML project and it's infrastructure
 
 
 ## 🌐 Socials:
